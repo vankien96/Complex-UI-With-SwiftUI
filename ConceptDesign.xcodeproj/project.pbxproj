@@ -65,14 +65,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0E0996EB2498B1E5008B1620 /* Trip Profile */ = {
+		0E0996EB2498B1E5008B1620 /* TripProfile */ = {
 			isa = PBXGroup;
 			children = (
 				0E0996EC2498B238008B1620 /* DesignTrip.png */,
 				0E6E5E8B24987F5E0078F74F /* TripProfileView.swift */,
 				0E0996EE2498B272008B1620 /* DetailProfileView.swift */,
 			);
-			path = "Trip Profile";
+			path = TripProfile;
 			sourceTree = "<group>";
 		};
 		0E0996F22498B29D008B1620 /* Extension */ = {
@@ -114,7 +114,7 @@
 			children = (
 				0E0C73BC2498D5CA0055AAE6 /* Home */,
 				0E0996F22498B29D008B1620 /* Extension */,
-				0E0996EB2498B1E5008B1620 /* Trip Profile */,
+				0E0996EB2498B1E5008B1620 /* TripProfile */,
 				0E7AEA952499B5680080FCBE /* BookStore */,
 				0E6E5E8424987F5E0078F74F /* AppDelegate.swift */,
 				0E6E5E8624987F5E0078F74F /* SceneDelegate.swift */,
